@@ -2,7 +2,7 @@
 
 <img src="https://github.com/xdann1/xDaNN1/blob/main/media/kuaker.gif" height="506" width="835">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=5000&pause=1000&center=true&vCenter=true&multiline=true&width=1100&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+xdann1;Cybersecurity+enthusiast+%7C+CTF+Player+%7C+Red+Team+%7C+eJPT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8B%2C+I%C2%B4m+Yishaq.;learning+cybersecurity+and+programming+%7C+Red+Team+%7C+CTF+Player;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%87%A8%F0%9F%87%B7" alt="Typing SVG" /></a>
 
 ### :bust_in_silhouette: About Me
   
