@@ -18,7 +18,7 @@
 <h3 align="left">:envelope: Connect with me</h3>
 <p align="left">
 <a href="https://github.com/Yishaq21" target="blank"><img align="center" src="https://raw.githubusercontent.com/FedericoManzano/bodystyle-iconos/master/svg/bs-github.svg" alt="xdann1" height="30" width="40" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yishaq" height="30" width="40" /></a>
+<a href="https://twitter.com/Yishaq_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yishaq" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/isaac-guevaram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Isaac Guevara" height="30" width="40" /></a>
 <a href="https://app.hackthebox.com/profile/884925" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/31746234?s=200&v=4" alt="Hack The Box" height="30" width="40" /></a>
 </p>
