@@ -1,6 +1,6 @@
 # README.md
 
-<img src="https://github.com/xdann1/xDaNN1/blob/main/media/kuaker.gif" height="506" width="835">
+<img src="<div class="tenor-gif-embed" data-postid="20201415" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pixel-art-pixels-video-games-gif-20201415">Pixel Art GIF</a>from <a href="https://tenor.com/search/pixel-gifs">Pixel GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" height="506" width="835">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&width=800&height=100&lines=Hey+%F0%9F%91%8B%2C+I%C2%B4m+Yishaq.;learning+cybersecurity+and+programming+%7C+Red+Team+%7C+CTF+Player;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%87%A8%F0%9F%87%B7" alt="Typing SVG" /></a>
 
